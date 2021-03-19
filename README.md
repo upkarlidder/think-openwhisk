@@ -18,6 +18,16 @@ _**IBM Cloud Functions**_ provides:
 * [Lab 2 - Integrate IBM Watson Visual Recognition Service](labs/quicklab2.pdf)
 * [Lab 3 - Create a sequence of actions](labs/quicklab3.pdf)
 
+## What's Next?
+Once you are done with the three basic labs here, you can try the more advanced resources:
+* [OpenWhisk Bootcamp](https://github.com/upkarlidder/openwhisk-workshops)
+* [OpenWhisk Talk at Google](https://www.youtube.com/watch?v=iSmcSdXilHk)
+* [Learning Apache OpenWhisk](https://www.amazon.com/Learning-Apache-OpenWhisk-Developing-Serverless-ebook/dp/B07TYSXWNN)
+* [openwhisk-wskdeploy](https://github.com/apache/openwhisk-wskdeploy)
+* [wskdeploy specification](https://github.com/apache/openwhisk-wskdeploy/tree/master/specification/html)
+* [A Visual Terminal for OpenWhisk](https://github.com/kui-shell/oui)
+* [IBM API Gateway](https://cloud.ibm.com/docs/api-gateway)
+* [Polyglot with open source](https://developer.ibm.com/articles/polyglot-with-open-source-prt-1/)
 ## Authors
 - Upkar Lidder (@upkarlidder)
 - Belinda Vennam (@BeeMarieV)
